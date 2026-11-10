@@ -5,7 +5,7 @@
 [![Vault Hook](https://img.shields.io/badge/Vault-Integrated-brightgreen.svg)](https://www.spigotmc.org/resources/vault.34315/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A complete, production-ready Hardcore death-management and bleedout plugin built for **Paper 1.20+**. 
+A complete Hardcore death-management and bleedout plugin built for **Paper 1.20+**. 
 
 Instead of an instant permanent ban upon dying, **HardcoreRevive** places players into an immersive downed bleedout state. Teammates can rush to perform an interactive resuscitation, or players can purchase a costly self-revive through Vault-backed economy. If the timer runs out—or if they attempt to combat-log—the ban hammer falls.
 
