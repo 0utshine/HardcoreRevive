@@ -27,7 +27,6 @@ Instead of an instant permanent ban upon dying, **HardcoreRevive** places player
 <details>
 <summary><b>1. Build & Plugin Metadata</b></summary>
 
-* **`pom.xml`**: Targets Java 17/21 using `Paper-API 1.20.4-R0.1-SNAPSHOT` and `VaultAPI 1.7.1`.
 * **`plugin.yml`**: Configured with `api-version: '1.20'`, soft dependency on `Vault`, and built-in aliases (`/revive`, `/reviveself`, `/reviveforce`, `/hardcorerevive`).
 </details>
 
