@@ -11,15 +11,6 @@ Instead of an instant permanent ban upon dying, **HardcoreRevive** places player
 
 ---
 
-## 🎮 Supported & Tested Versions
-
-| Server Software | Target / Baseline | Tested Versions | Status |
-| :--- | :--- | :--- | :--- |
-| **Paper / Purpur** | `1.20.4` | `1.20.x`, `1.21.x`, **Latest Release** | ![Supported](https://img.shields.io/badge/Tested-Working-brightgreen.svg) |
-| **Java Runtime** | `Java 17` | `Java 17`, `Java 21` | ![Supported](https://img.shields.io/badge/Compatible-Passing-brightgreen.svg) |
-
-> ℹ️ *Note: Built against the `1.20.4-R0.1-SNAPSHOT` Paper API baseline, ensuring backward compatibility across 1.20 while remaining fully functional on modern Paper builds up to the latest release.*
-
 ## ✨ Features
 
 - **🛡️ Intercepted Hardcore Death:** Cancels fatal elimination safely, preserves player inventories, and pulls victims out of the void before placing them in bleedout.
@@ -30,6 +21,15 @@ Instead of an instant permanent ban upon dying, **HardcoreRevive** places player
 - **🚨 Combat-Log Prevention:** Disconnecting while downed immediately triggers death penalties and initiates the tempban.
 
 ---
+
+## 🎮 Supported & Tested Versions
+
+| Server Software | Target / Baseline | Tested Versions | Status |
+| :--- | :--- | :--- | :--- |
+| **Paper / Purpur** | `1.20.4` | `1.20.x`, `1.21.x`, **Latest Release** | ![Supported](https://img.shields.io/badge/Tested-Working-brightgreen.svg) |
+| **Java Runtime** | `Java 17` | `Java 17`, `Java 21` | ![Supported](https://img.shields.io/badge/Compatible-Passing-brightgreen.svg) |
+
+> ℹ️ *Note: Built against the `1.20.4-R0.1-SNAPSHOT` Paper API baseline, ensuring backward compatibility across 1.20 while remaining fully functional on modern Paper builds up to the latest release.*
 
 ## 🛠️ Architecture & Core Components
 
